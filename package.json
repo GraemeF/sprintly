@@ -1,6 +1,6 @@
 {
   "name": "sprintly",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Do things to Sprint.ly",
   "main": "index.js",
   "repository": {
