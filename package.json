@@ -1,0 +1,18 @@
+{
+  "name": "sprintly",
+  "version": "0.0.0",
+  "description": "Do things to Sprint.ly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GraemeF/sprintly.git"
+  },
+  "author": "Graeme Foster",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.12.0"
+  }
+}
