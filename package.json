@@ -1,6 +1,6 @@
 {
   "name": "sprintly",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Do things to Sprint.ly",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,10 @@
   "dependencies": {
     "request": "~2.12.0"
   },
-  "keywords": ["sprint.ly", "sprintly"],
+  "keywords": [
+    "sprint.ly",
+    "sprintly"
+  ],
   "engines": {
     "node": ">=0.8"
   },
